@@ -4,7 +4,7 @@ int main()
 char a;
 scanf("%c",&a);
 if(((a>='a')&&(a<='z'))||((a>='A')&&(a<='Z')))
-printf("its an alphabet");
+printf("alphabet");
 else 
-printf("its an character");
+printf("character");
 }
