@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-	int i,n;
+   int i,n;
   int sum=0;
   clrscr();
 	scanf("%d",&n);
@@ -11,5 +11,5 @@ int main()
 		sum=sum+i;
 	}
 	printf("%d",sum);
-  getch();
+        getch();
   }
